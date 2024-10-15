@@ -1,3 +1,4 @@
+package firstThingsOfJava;
 public class App {
     public static void main(String[] args) throws Exception {
         String str = "test";
@@ -14,5 +15,8 @@ public class App {
         System.out.println(arr);
         System.out.println(arr[2]);
 
+    }
+    public static void token(String[] args){
+        // boolean byte case catch 
     }
 }
